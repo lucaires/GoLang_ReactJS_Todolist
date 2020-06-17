@@ -7,7 +7,9 @@ A simple application using Go, React and MongoDB
 
 
 _________________
-# Server Side https://img.shields.io/static/v1?label=Language&message=GoLang&color=blue&style=for-the-badge&logo=GOLANG
+# Server Side 
+![Badge](https://img.shields.io/static/v1?label=Language&message=GoLang&color=blue&style=for-the-badge)
+![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 
 Open server folder
 
