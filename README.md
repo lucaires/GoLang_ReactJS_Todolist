@@ -1,7 +1,7 @@
 # GoLang_ReactJS_Todolist
 
 
-A simple application using Go, React and MongoDB
+A simple application using Go, React and MongoDB.
 
 ![golangapp](https://user-images.githubusercontent.com/48954255/84936872-4d409700-b0b1-11ea-9d90-c69c67742451.jpg)
 
@@ -9,6 +9,9 @@ A simple application using Go, React and MongoDB
 _________________
 # Server Side 
 ![Badge](https://img.shields.io/static/v1?label=Language&message=GoLang&color=blue&style=plastic&logo=GOLANG)
+
+
+Before you begin you must have GoLang and ReactJS installed on your machine.
 
 
 Open server folder
