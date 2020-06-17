@@ -77,7 +77,7 @@ Now open client folder and follow the steps for run the client side in your mach
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn install`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
