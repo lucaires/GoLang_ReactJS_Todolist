@@ -7,7 +7,7 @@ A simple application using Go, React and MongoDB
 
 
 _________________
-#Server Side https://img.shields.io/static/v1?label=Language&message=GoLang&color=blue&style=for-the-badge&logo=GOLANG
+# Server Side https://img.shields.io/static/v1?label=Language&message=GoLang&color=blue&style=for-the-badge&logo=GOLANG
 
 Open server folder
 
@@ -23,7 +23,7 @@ To install it run the below command in the terminal or command window.
 go get -u github.com/gorilla/mux
 ````
 
-###MongoDB Set up
+### MongoDB Set up
 First set up the MongoDB connection.
 Here I am using MongoDB Atlas for the demo. You can sign up for free tier, it gives you 512MB of storage, that is more than enough for learning purpose.
 Sign up for MongoDB Atlas. Follow the link instructions.
@@ -61,7 +61,7 @@ You’ll see the output as the image.
 go run main.go
 ````
 _____________________
-#Cliet Side
+# Cliet Side
 Now open client folder and follow the steps for run the client side in your machine.
 
 
