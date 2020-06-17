@@ -68,7 +68,7 @@ go run main.go
 
 
 _____________________
-# Cliet Side
+# Client Side
 ![Badge](https://img.shields.io/static/v1?label=framework&message=react&color=blue&style=plastic&logo=REACT)
 
 
