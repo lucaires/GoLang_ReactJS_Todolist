@@ -8,7 +8,7 @@ A simple application using Go, React and MongoDB
 
 _________________
 # Server Side 
-![Badge](https://img.shields.io/static/v1?label=Language&message=GoLang&color=blue&style=plastic)
+![Badge](https://img.shields.io/static/v1?label=Language&message=GoLang&color=blue&style=plastic&logo=GOLANG)
 
 
 Open server folder
@@ -62,9 +62,16 @@ You’ll see the output as the image.
 ````
 go run main.go
 ````
+
+![cmd](https://user-images.githubusercontent.com/48954255/84941803-42d5cb80-b0b8-11ea-9a1d-79c1a06447f3.jpg)
+
+
+
 _____________________
 # Cliet Side
-![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=plastic&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=framework&message=react&color=blue&style=plastic&logo=REACT)
+
+
 Now open client folder and follow the steps for run the client side in your machine.
 
 
